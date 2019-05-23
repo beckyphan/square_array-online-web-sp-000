@@ -6,3 +6,5 @@
 #   end
 #   new
 # end
+
+def square_array()
