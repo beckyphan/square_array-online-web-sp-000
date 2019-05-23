@@ -4,5 +4,5 @@ def square_array(array)
     Math.sqrt(value)
     new.push(value)
   end
-  new
+  return new
 end
