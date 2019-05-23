@@ -7,4 +7,8 @@
 #   new
 # end
 
-def square_array()
+def square_array(array)
+  array.collect do |value|
+    value**2 
+  end
+end
